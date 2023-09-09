@@ -61,7 +61,7 @@ Please note that you need to replace `X`, `Y`, `Z`, `W`, and `V` with the specif
 
 ## Contributing
 
-Contributions to the Magic Band Simulator project are welcome! If you'd like to contribute, please follow these guidelines:
+Contributions to the Magic Band project are welcome! If you'd like to contribute, please follow these guidelines:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
