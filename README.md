@@ -1,4 +1,4 @@
-# Magic Band Simulator
+# Magic Band
 
 ## Author: Andrei-Valerian Andreescu
 
