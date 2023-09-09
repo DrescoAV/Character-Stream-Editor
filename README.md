@@ -18,17 +18,18 @@
 ## Description
 
 The **Magic Band Simulator** is a simple project that emulates a "magic band." It allows you to perform operations on a list-like structure, which represents the band. These operations include moving the cursor left or right, inserting characters, writing characters, undoing, redoing, and displaying the band's content.
+![Representation](https://github.com/DrescoAV/MagicBand/blob/main/Demo/Representation%20Image.png)
 
 ## Demo
 
-![Magic Band Simulator Demo](demo.gif)
+![Magic Band Simulator Demo](https://github.com/DrescoAV/MagicBand/blob/main/Demo/Magic%20Band%20Demo.gif)
 
 ## How to run
 
 To run the Magic Band Simulator on your system, follow these steps:
 
 1. Clone this repository to your local machine.
-2. Compile the program typing "make" into your terminal.
+2. Compile the program by typing "make" into your terminal.
 3. Create input and output files (e.g., `MagicBandIn.in` and `MagicBandOut.out`).
 4. Run the compiled executable (e.g., `./MagicBand MagicBandIn.in MagicBandOut.out`).
 
@@ -71,4 +72,4 @@ We appreciate your contributions to make this project better.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/DrescoAV/MagicBand/blob/main/LICENSE) file for details.
