@@ -2,7 +2,7 @@
 
 int main()
 {
-    // Creating a linked list for storing the "magic band"'s elements.
+    // Creating a linked list for storing the Stream Editor's elements.
     List *banda = malloc(sizeof(List));
     banda->head = malloc(sizeof(Node));
     Node *newNode = malloc(sizeof(Node));
@@ -22,8 +22,8 @@ int main()
     // Opening input and output files.
     FILE *fin;
     FILE *fout;
-    fin = fopen("MagicBandIn.in", "r");
-    fout = fopen("MagicBandOut.out", "w");
+    fin = fopen("StreamEditor.in", "r");
+    fout = fopen("StreamEditorOut.out", "w");
 
     // Inserting the number of operations.
     int no_of_operations;
