@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-- [Magic Band Simulator](#magic-band-simulator)
+- [Character-Stream-Editor](#character-stream-editor)
   - [Author: Andrei-Valerian Andreescu](#author-andrei-valerian-andreescu)
   - [Table of Contents](#table-of-contents)
   - [Description](#description)
