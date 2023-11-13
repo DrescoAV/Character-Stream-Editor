@@ -5,7 +5,7 @@ TARGETS=StreamEditor
 
 build: $(TARGETS)
 
-MagicBand: main.c algorithms.c basic_functions.c
+StreamEditor: main.c algorithms.c basic_functions.c
 	$(CC) $(CFLAGS) main.c algorithms.c basic_functions.c -o StreamEditor
 
 clean:
