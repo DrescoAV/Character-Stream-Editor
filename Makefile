@@ -1,12 +1,12 @@
 CC=gcc
 CFLAGS=-Wall -Wextra -std=c99
 
-TARGETS=MagicBand
+TARGETS=StreamEditor
 
 build: $(TARGETS)
 
 MagicBand: main.c algorithms.c basic_functions.c
-	$(CC) $(CFLAGS) main.c algorithms.c basic_functions.c -o MagicBand
+	$(CC) $(CFLAGS) main.c algorithms.c basic_functions.c -o StreamEditor
 
 clean:
 	rm -f $(TARGETS)
